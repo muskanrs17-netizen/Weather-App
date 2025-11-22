@@ -1,6 +1,6 @@
     PROJECT-Weather Dashboard Web App
 
-    NOTE: git-hub link (https://github.com/muskanrs17-netizen/Weather App)
+    NOTE: git-hub link (https://github.com/muskanrs17-netizen/Weather-App/blob/main/project.txt)
 A clean and interactive weather dashboard built using HTML, CSS (Tailwind), and JavaScript. This application allows users to search for any city's weather, view current conditions, and get updates using a weather API.
 
 =>Project Overview
